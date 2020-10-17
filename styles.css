@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+footer {
+    padding: 10px;
+    background-color: #222;
+    color: white;
+    text-align: center;
+}
